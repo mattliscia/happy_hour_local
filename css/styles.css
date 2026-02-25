@@ -692,6 +692,16 @@ section[id] {
   margin-bottom: 1rem;
 }
 
+/* Reset Pico overrides inside the injected widgets */
+.widget-container div[id^="hh-"] *,
+.widget-container div[id^="hh-"],
+.widget-container div[id^="happyhopper-widget"] *,
+.widget-container div[id^="happyhopper-widget"] {
+  all: unset;
+  display: revert;
+  box-sizing: border-box;
+}
+
 /* --- Footer --- */
 .site-footer {
   background: var(--near-black);
