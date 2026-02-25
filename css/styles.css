@@ -1,10 +1,3 @@
-/* ============================================
-   HAPPY HOUR LOCAL — Design System
-   Editorial magazine aesthetic, Texas sunset palette
-   Built on Pico CSS with custom overrides
-   ============================================ */
-
-/* --- Pico CSS Custom Property Overrides --- */
 :root {
   --terracotta: #E8623F;
   --amber: #F4A261;
@@ -16,7 +9,6 @@
   --terracotta-dark: #C9492A;
   --terracotta-glow: rgba(232, 98, 63, 0.15);
 
-  /* Pico overrides */
   --pico-font-family: "Inter", system-ui, sans-serif;
   --pico-font-size: 17px;
   --pico-line-height: 1.7;
@@ -40,7 +32,6 @@
   --pico-typography-spacing-vertical: 1rem;
 }
 
-/* --- Base & Typography --- */
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 80px;
@@ -53,13 +44,11 @@ body {
   position: relative;
 }
 
-/* Override Pico's container constraints for full-width layout */
 body > main {
   max-width: 100%;
   padding: 0;
 }
 
-/* Subtle grain overlay */
 body::before {
   content: "";
   position: fixed;
@@ -95,7 +84,6 @@ a:hover {
   text-decoration-color: var(--terracotta-dark);
 }
 
-/* Drop cap for editorial ledes */
 .drop-cap::first-letter {
   font-family: "DM Serif Display", Georgia, serif;
   float: left;
@@ -105,7 +93,6 @@ a:hover {
   color: var(--terracotta);
 }
 
-/* Kicker / category label */
 .kicker {
   font-family: "Inter", sans-serif;
   font-size: 0.75rem;
@@ -117,7 +104,6 @@ a:hover {
   display: block;
 }
 
-/* --- Sticky Header --- */
 .site-header {
   position: sticky;
   top: 0;
@@ -164,7 +150,6 @@ a:hover {
   color: var(--terracotta);
 }
 
-/* Desktop nav */
 .site-nav {
   display: flex;
   align-items: center;
@@ -188,7 +173,6 @@ a:hover {
   color: var(--terracotta);
 }
 
-/* Hamburger */
 .nav-toggle {
   display: none;
   background: none;
@@ -220,7 +204,6 @@ a:hover {
   transform: rotate(-45deg) translate(5px, -5px);
 }
 
-/* --- Hero Section --- */
 .hero {
   position: relative;
   min-height: 80vh;
@@ -296,7 +279,6 @@ a:hover {
   color: var(--cream) !important;
 }
 
-/* --- City Hero (subpages) --- */
 .city-hero {
   position: relative;
   padding: 5rem 1.5rem 3rem;
@@ -354,7 +336,6 @@ a:hover {
   }
 }
 
-/* --- Section Styling --- */
 .content-section {
   max-width: 1200px;
   margin: 0 auto;
@@ -373,7 +354,6 @@ section[id] {
   margin: 2.5rem 0;
 }
 
-/* --- Editorial Cards Grid --- */
 .picks-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -434,7 +414,6 @@ section[id] {
   text-decoration: underline;
 }
 
-/* City guide cards (2x2 grid) */
 .city-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -491,7 +470,6 @@ section[id] {
   letter-spacing: 0.03em;
 }
 
-/* --- How We Pick Section --- */
 .how-section {
   background: var(--light-warm);
   border-radius: 16px;
@@ -532,7 +510,6 @@ section[id] {
   color: var(--warm-gray);
 }
 
-/* --- City Page Two-Column Layout --- */
 .city-layout {
   max-width: 1200px;
   margin: 0 auto;
@@ -545,7 +522,6 @@ section[id] {
   align-items: start;
 }
 
-/* Reset Pico's container styling on elements inside city layout */
 .city-layout section,
 .city-layout article,
 .city-layout aside,
@@ -586,7 +562,6 @@ section[id] {
   margin-bottom: 0.5rem;
 }
 
-/* Neighborhood cards */
 .neighborhood-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -622,7 +597,6 @@ section[id] {
   line-height: 1.55;
 }
 
-/* Cross-city CTA */
 .cross-city-cta {
   background: linear-gradient(135deg, var(--terracotta), var(--amber));
   border-radius: 14px;
@@ -659,7 +633,6 @@ section[id] {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 }
 
-/* --- Sidebar & Widget --- */
 .sidebar {
   position: sticky;
   top: 85px;
@@ -692,7 +665,6 @@ section[id] {
   margin-bottom: 1rem;
 }
 
-/* Reset Pico overrides inside the injected widgets */
 .widget-container div[id^="hh-"] *,
 .widget-container div[id^="hh-"],
 .widget-container div[id^="happyhopper-widget"] *,
@@ -702,7 +674,6 @@ section[id] {
   box-sizing: border-box;
 }
 
-/* --- Footer --- */
 .site-footer {
   background: var(--near-black);
   color: rgba(255, 248, 240, 0.7);
@@ -774,7 +745,6 @@ section[id] {
   color: var(--amber);
 }
 
-/* --- Scroll Reveal Animations --- */
 .reveal {
   opacity: 0;
   transform: translateY(24px);
@@ -786,7 +756,6 @@ section[id] {
   transform: translateY(0);
 }
 
-/* Staggered children */
 .stagger-children > * {
   opacity: 0;
   transform: translateY(16px);
@@ -805,7 +774,6 @@ section[id] {
   transform: translateY(0);
 }
 
-/* Hero entrance */
 .hero-content {
   animation: heroIn 0.9s ease both;
 }
@@ -821,7 +789,6 @@ section[id] {
   }
 }
 
-/* --- Deal highlight tags --- */
 .deal-tag {
   display: inline-block;
   background: var(--terracotta-glow);
@@ -833,7 +800,6 @@ section[id] {
   margin: 0.2rem 0.25rem 0.2rem 0;
 }
 
-/* --- Pull quote --- */
 .pull-quote {
   border-left: 4px solid var(--terracotta);
   padding: 1rem 1.5rem;
@@ -846,7 +812,6 @@ section[id] {
   border-radius: 0 8px 8px 0;
 }
 
-/* --- Responsive --- */
 @media (max-width: 992px) {
   .city-layout {
     grid-template-columns: minmax(0, 1fr);

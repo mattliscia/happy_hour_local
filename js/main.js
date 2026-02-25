@@ -1,10 +1,4 @@
-/* ============================================
-   HAPPY HOUR LOCAL — Main JS
-   Mobile nav, sticky header, scroll reveals
-   ============================================ */
-
 document.addEventListener("DOMContentLoaded", () => {
-  // --- Sticky header scroll effect ---
   const header = document.querySelector(".site-header");
   if (header) {
     let ticking = false;
@@ -19,7 +13,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // --- Mobile nav toggle ---
   const toggle = document.querySelector(".nav-toggle");
   const nav = document.querySelector(".site-nav");
   if (toggle && nav) {
@@ -29,7 +22,6 @@ document.addEventListener("DOMContentLoaded", () => {
       toggle.setAttribute("aria-expanded", isOpen);
     });
 
-    // Close on link click
     nav.querySelectorAll("a").forEach((link) => {
       link.addEventListener("click", () => {
         nav.classList.remove("open");
@@ -38,7 +30,6 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     });
 
-    // Close on outside click
     document.addEventListener("click", (e) => {
       if (!nav.contains(e.target) && !toggle.contains(e.target)) {
         nav.classList.remove("open");
@@ -48,7 +39,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // --- Scroll reveal (IntersectionObserver) ---
   const revealEls = document.querySelectorAll(".reveal, .stagger-children");
   if (revealEls.length > 0 && "IntersectionObserver" in window) {
     const observer = new IntersectionObserver(
@@ -65,7 +55,6 @@ document.addEventListener("DOMContentLoaded", () => {
     revealEls.forEach((el) => observer.observe(el));
   }
 
-  // --- Active nav link for current page ---
   const currentPath = window.location.pathname.split("/").pop() || "index.html";
   document.querySelectorAll(".site-nav a").forEach((link) => {
     const href = link.getAttribute("href");
