@@ -6,3 +6,9 @@ Thumbs.db
 .vscode/
 .idea/
 node_modules/
+
+# Local-only image download cache markers (sidecar source URLs for phase5_localize_images.py)
+images/restaurants/**/*.source.txt
+
+# Local-only image review artifact (regenerate with _image_review.py)
+_image_review.html
