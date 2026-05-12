@@ -12,3 +12,10 @@ images/restaurants/**/*.source.txt
 
 # Local-only image review artifact (regenerate with _image_review.py)
 _image_review.html
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
