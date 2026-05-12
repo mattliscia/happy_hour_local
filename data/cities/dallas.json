@@ -1,0 +1,808 @@
+{
+  "city": "Dallas",
+  "slug": "dallas",
+  "generated_at": "2026-05-12T17:08:43.407623Z",
+  "page_title": "The 10 Best Happy Hours in Dallas Right Now",
+  "restaurants": [
+    {
+      "rank": 1,
+      "restaurant_id": 2111035,
+      "name": "The Libertine Bar",
+      "address": "2101 Greenville Ave",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip_code": "75206",
+      "latitude": 32.8156245,
+      "longitude": -96.7704041,
+      "neighborhood": "Lower Greenville",
+      "rating": 4.4,
+      "user_rating_count": 734,
+      "cuisine": "Bar",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2111035-e04698a1-3f03-434c-a57a-ee199682de7a.webp",
+      "image_local_path": null,
+      "image_alt": "Iced yellow drink with lime and menu on an outdoor table.",
+      "deal_headline": "Half-Price Wine Bottles & $5 Frozen Margs, Tue-Fri",
+      "blurb": "Half-price wine bottles four nights a week, $5 frozen margs, $5 cocktails (Paloma, Old Fashioned, Dark 'n Stormy), plus a Tuesday $20 steak-and-cocktail night. The Lower Greenville bar has been doing real-deal happy hour since 2007 and the value math still doesn't add up anywhere else on the strip.",
+      "deals_curated": [
+        {
+          "when": "Tue-Fri, 4-7pm",
+          "items": [
+            "Half-price wine bottles",
+            "$5 frozen margaritas",
+            "$5 cocktails: Paloma, Old Fashioned, Sangria, Dark 'n Stormy, Carajillo",
+            "$3 kettle chips with onion dip"
+          ]
+        },
+        {
+          "when": "Tue, 4-10pm",
+          "items": [
+            "$20 steak or burger with cocktail (Absolut Martini, TX Old Fashioned, or Altos Paloma)"
+          ]
+        },
+        {
+          "when": "Sat brunch, 11am-3pm",
+          "items": [
+            "$10 birria tacos (house-made beef birria, onions, cilantro)"
+          ]
+        },
+        {
+          "when": "Sun brunch, 11am-3pm",
+          "items": [
+            "$5 frozen margaritas · $4 champagne drinks · $6 bloody marys"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "Wine House Wine Bottles 1/2 Price\n$5 Frozen Margarita\n$5 Cocktails (Paloma, Old Fashioned, Seasonal Sangria, Dark 'n Stormy, Carajillo)\n$3 Kettle Chips Onion Dip\n$4 Soft Pretzel Cheese Dip & Mustard\n$5 Chicken Bites Crispy Chicken & Honey Mustard\n$6 Loaded Skillet Queso Carnitas, Sour Cream\n$7 Hog Wings Pork Shanks (BBQ, Sweet Chili, or Wing Sauce)",
+          "start_time": "16:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$20 Steak or Burger with a Cocktail (Absolut Martini, TX Old Fashioned or Altos Paloma)",
+          "start_time": "16:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$10 Birria Tacos (2) House Made Beef Birria, Onions & Cilantro",
+          "start_time": "11:00:00",
+          "end_time": "15:00:00",
+          "days": [
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5 Frozen Margarita\n$4 Champagne Drinks\n$6 Bloody Mary",
+          "start_time": "11:00:00",
+          "end_time": "15:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "restaurant_id": 2111269,
+      "name": "The Peak Inn",
+      "address": "132 N Peak St",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip_code": "75226",
+      "latitude": 32.7908187,
+      "longitude": -96.7697018,
+      "neighborhood": "Deep Ellum",
+      "rating": 4.7,
+      "user_rating_count": 316,
+      "cuisine": "Bar And Grill, Bar, Restaurant",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2111269-a48707f0-d5e0-4dc5-ab20-db320a394e6b.webp",
+      "image_local_path": null,
+      "image_alt": "Close-up: double cheeseburger with melted cheese, fries, and ketchup.",
+      "deal_headline": "$4 PBR & Lone Star, $4.50 Wells, Six Nights a Week",
+      "blurb": "Genuine Deep Ellum dive territory: $4 PBR and Lone Star, $4.50 wells, $4.75 Coors pints, $5 Fireball, $6 Tito's. Six nights a week, 5pm to close (closed Tuesdays). The locals' move when you want a real night out without the Uptown markup.",
+      "deals_curated": [
+        {
+          "when": "Mon, Wed-Sun, 5-10pm",
+          "items": [
+            "$4 Lone Star, Lone Star Light, PBR",
+            "$4.50 well drinks",
+            "$4.75 Coors Original pints",
+            "$5 Fireball shots",
+            "$6 Tito's, Jim Beam, Hornitos"
+          ]
+        },
+        {
+          "when": "Mon, 5pm-2am",
+          "items": [
+            "$9.99 cheeseburger + fries with cheap beer pints"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$4.75 Pints of Coors Original\nCheeseburger & Fries $9.99",
+          "start_time": "17:00:00",
+          "end_time": "1 day, 2:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$4.00 Lone Star, Lone Star Light & PBR\n$4.50 Well Drinks\n$5.00 Fireball Shots\n$6.00 Tito’s, Jim Beam & Hornitos",
+          "start_time": "17:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$4.75 Pints of Coors Original",
+          "start_time": "17:00:00",
+          "end_time": "1 day, 2:00:00",
+          "days": [
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "restaurant_id": 2110633,
+      "name": "The Standard Pour",
+      "address": "2900 McKinney Ave",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip_code": "75204",
+      "latitude": 32.7996898,
+      "longitude": -96.8006714,
+      "neighborhood": "Uptown",
+      "rating": 4.5,
+      "user_rating_count": 1382,
+      "cuisine": "American, Brunch, Hamburger, Bar And Grill, Pub, Bar, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2110633-693ecfc1-b8ec-471d-988f-5c13557c0106.webp",
+      "image_local_path": null,
+      "image_alt": "Warm, empty rustic-chic restaurant interior with bar and open patio.",
+      "deal_headline": "$6 Cocktails Daily (Moscow Mule, Old Fashioned, Margarita)",
+      "blurb": "Six different $6 cocktails (Moscow Mule, Old Fashioned, Lucky Mule, Samurai Gimlet, Clover Club, Diablo Margarita) plus $7 Rosé 75 and Spiced Pear Sangria, 5pm to 7pm every day. The most consistent cocktail program on McKinney Ave, and Monday's runs all night.",
+      "deals_curated": [
+        {
+          "when": "Daily, 5-7pm",
+          "items": [
+            "$6 Moscow Mule, Old Fashioned, Lucky Mule, Samurai Gimlet, Clover Club, Diablo Margarita",
+            "$7 Rosé 75, Spiced Pear Sangria",
+            "$7 sparkling wine and select beer",
+            "$7 small plates"
+          ]
+        },
+        {
+          "when": "Mon, 5pm-2am",
+          "items": [
+            "Same happy hour menu runs all night Mondays"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "🍸 Happy Hour Cocktails:\nMoscow Mule – $6\nOld Fashioned – $6\nLucky Mule – $6\nSamurai Gimlet – $6\nClover Club – $6\nDiablo Margarita – $6\nRosé 75 – $7\nSpiced Peach Smash – $7\nPainkiller – $7\nUptown Sour – $7\nCucumber-Basil Ricky – $6\nSeasonal Sangria – $6\nFrosé (Frozen Rosé) – $6\n\n🍽️ Standard Fare:\nRoasted Garlic Hummus – $8\nBruschetta – $8\nSourdough Pretzels – $8\nSpinach Artichoke Dip – $10\nBacon-Wrapped Jalapeños – $11\n\n🍺 Beer:\nMiller Lite, Lone Star, Budweiser – $4\nDos Equis, Dallas Blonde – $5\nBlood & Honey – $6\n\n🍷 Wine:\nSauvignon Blanc, Chardonnay, Cabernet, Pinot Noir, Champagne – $7",
+          "start_time": "17:00:00",
+          "end_time": "1 day, 2:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "🍸 Happy Hour Cocktails:\nMoscow Mule – $6\nOld Fashioned – $6\nLucky Mule – $6\nSamurai Gimlet – $6\nClover Club – $6\nDiablo Margarita – $6\nRosé 75 – $7\nSpiced Peach Smash – $7\nPainkiller – $7\nUptown Sour – $7\nCucumber-Basil Ricky – $6\nSeasonal Sangria – $6\nFrosé (Frozen Rosé) – $6\n\n🍽️ Standard Fare:\nRoasted Garlic Hummus – $8\nBruschetta – $8\nSourdough Pretzels – $8\nSpinach Artichoke Dip – $10\nBacon-Wrapped Jalapeños – $11\n\n🍺 Beer:\nMiller Lite, Lone Star, Budweiser – $4\nDos Equis, Dallas Blonde – $5\nBlood & Honey – $6\n\n🍷 Wine:\nSauvignon Blanc, Chardonnay, Cabernet, Pinot Noir, Champagne – $7",
+          "start_time": "17:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "restaurant_id": 2111345,
+      "name": "Sundown at Granada",
+      "address": "3520 Greenville Ave",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip_code": "75206",
+      "latitude": 32.8305928,
+      "longitude": -96.769975,
+      "neighborhood": "Lower Greenville",
+      "rating": 4.3,
+      "user_rating_count": 1539,
+      "cuisine": "Restaurant, Event Venue",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2111345-9f428966-caf3-42f5-bf07-c6b65a8d045f.webp",
+      "image_local_path": null,
+      "image_alt": "Hand pouring orange juice into a flute, making a Mimosa outdoors.",
+      "deal_headline": "$5 Drafts, $7 Cocktails & $2 Mimosas, Patio Days",
+      "blurb": "Lower Greenville's prettiest patio runs $5 drafts, $7 craft cocktails, and $2 mimosas all weekday afternoon, then again at weekend brunch. Wednesday is $10 burger night, Thursday is half-price wine night. Live music spills over from the Granada Theater next door more often than not.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 11am-6pm",
+          "items": [
+            "$5 drafts",
+            "$7 craft cocktails",
+            "$2 mimosas"
+          ]
+        },
+        {
+          "when": "Sat-Sun brunch, 10am-3pm",
+          "items": [
+            "$5 drafts · $7 craft cocktails · $2 mimosas"
+          ]
+        },
+        {
+          "when": "Wed, 11am-10pm",
+          "items": [
+            "$10 burger or sandwich + fries with $5 drafts"
+          ]
+        },
+        {
+          "when": "Thu, 11am-10pm",
+          "items": [
+            "Half-price bottles of wine"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$5 Drafts\n$7 Craft Cocktails\n$2 Mimosas",
+          "start_time": "11:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$10 Burgers (And Sandwiches) +Fries\n$5 Drafts",
+          "start_time": "11:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "1/2 Price Bottles of Wine",
+          "start_time": "11:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5 Drafts\n$7 Craft Cocktails\n$2 Mimosas",
+          "start_time": "10:00:00",
+          "end_time": "15:00:00",
+          "days": [
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "restaurant_id": 2111026,
+      "name": "Happiest Hour",
+      "address": "2616 Olive St",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip_code": "75201",
+      "latitude": 32.791142,
+      "longitude": -96.806687,
+      "neighborhood": "Uptown",
+      "rating": 4.3,
+      "user_rating_count": 5091,
+      "cuisine": "Bar",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2111026-5a4302ac-44dd-4db6-89eb-e424415f8b30.webp",
+      "image_local_path": null,
+      "image_alt": "Empty modern industrial-chic restaurant with wooden beams, concrete floors, and bar.",
+      "deal_headline": "Half-Off Happytizers & $7 Cocktails, Uptown Rooftop",
+      "blurb": "The most popular happy hour in Dallas by sheer volume (5,000-plus reviews can't all be wrong). Half-off Happytizers, $7 signature cocktails, $7 wines, and $1 off drafts, Mon through Fri 4 to 6pm. The Uptown rooftop you're already on Instagram looking at.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 4-6pm",
+          "items": [
+            "Half-off Happytizers (the food specials menu)",
+            "$7 signature cocktails",
+            "$7 house wine",
+            "$1 off 16oz draft beers"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$1 Off 16 oz Draft Beers\n$7 House Wine\n$7 Signature Cocktails\n1/2 Off Happytizers",
+          "start_time": "16:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "restaurant_id": 2110467,
+      "name": "The Nodding Donkey",
+      "address": "2900 Thomas Ave",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip_code": "75204",
+      "latitude": 32.7965785,
+      "longitude": -96.7968317,
+      "neighborhood": "Uptown",
+      "rating": 4.2,
+      "user_rating_count": 679,
+      "cuisine": "Pizza, Sandwich Shop, American, Bar, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2110467-d5813c97-8f12-46e2-969d-63af1c2af4a4.webp",
+      "image_local_path": null,
+      "image_alt": "Hand with citrus drink in mason jar, blurred bar background.",
+      "deal_headline": "$4 Drafts & $6.50 Brisket Queso, Mon-Fri 4-7pm",
+      "blurb": "Uptown sandwich-and-pizza shop with the broadest happy hour program on Thomas Ave. $4 domestic drafts, $5 imports, $6 wells, plus $6.50 brisket queso, jalapeño skins, and donkey balls on the food side. Rotating daily lunch specials and a different liquor deal each weeknight.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 4-7pm",
+          "items": [
+            "$4 domestic drafts",
+            "$5 import drafts and house wines",
+            "$6 local drafts and wells",
+            "$6.50 brisket queso, jalapeño skins, wagon wheels, donkey balls"
+          ]
+        },
+        {
+          "when": "Mon-Fri lunch, 11am-4pm",
+          "items": [
+            "$9.95 daily food special: burger Mon, salads Tue, buffalo chicken Wed, fajitas Thu, chicken strips Fri"
+          ]
+        },
+        {
+          "when": "Thu, all day",
+          "items": [
+            "Half-price wine (excluding house wines)"
+          ]
+        },
+        {
+          "when": "Sat brunch, 11am-1pm",
+          "items": [
+            "$4 bloody marys and mimosas"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$6 Crown Royal (All Flavors)",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$9.95 Burgers",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$4 Domestic Drafts\n$5 Import Drafts, House Wines\n$6 Local Drafts, Wells\n$6.50 Select Appetizers (Brisket Queso, Jalapeño Skins, Wagon Wheels, Donkey Balls, Loaded Cheese Fries)",
+          "start_time": "16:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5 Skrewball\n$5 Fireball",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$9.95 Salads",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5 Donkey Punch & Purple Nurples",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$9.95 Buffalo Chicken Sandwich",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "1/2 Priced Wine (Excludes House Wines)",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$9.95 Fajitas",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$6 Jameson",
+          "start_time": "18:00:00",
+          "end_time": "1 day, 0:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$7 Ketel One Vodka & Ketel One Botanicals",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$9.95 Chicken Strips",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$4 Bloody Marys & Mimosas",
+          "start_time": "11:00:00",
+          "end_time": "13:00:00",
+          "days": [
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5 Jägermeister\n$5 Skrewball",
+          "start_time": "13:00:00",
+          "end_time": "1 day, 0:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "restaurant_id": 2110674,
+      "name": "Rodeo Bar",
+      "address": "1321 Commerce St",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip_code": "75202",
+      "latitude": 32.7799743,
+      "longitude": -96.7995024,
+      "neighborhood": "Downtown",
+      "rating": 4.7,
+      "user_rating_count": 1230,
+      "cuisine": "American, Hamburger, Bar, Restaurant",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2110674-a633e2cc-6ab2-46f8-b502-a3b3b11e86f9.webp",
+      "image_local_path": null,
+      "image_alt": "Hand reaches for sau sauced chicken wings, carrots, celery, burger, and beer.",
+      "deal_headline": "$5 Drafts, $6 Wine & $8 Chili Cheese Fries, Mon-Fri 2-6pm",
+      "blurb": "Downtown country bar with $5 drafts, $5 Highs-and-Lows (Miller High Life plus a Slow & Low shot), $6 wells and wine, $12 Slow Old-Fashioneds, and $8 chili cheese fries. Mon through Fri, 2 to 6pm. The cowboy boots aren't ironic and the High Lifes hit different on the patio.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 2-6pm",
+          "items": [
+            "$5 draft beer",
+            "$5 Highs & Lows (Miller High Life with a Slow & Low shot)",
+            "$6 house wine",
+            "$6 well liquor",
+            "$12 Slow Old-Fashioned",
+            "$8 chili cheese fries"
+          ]
+        },
+        {
+          "when": "Sun, all day",
+          "items": [
+            "20% off all food"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$5 Draft Beer / Highs & Lows (Miller High Life, Slow & Low)\n$6 House Wine\n$12 Slow Old-Fashioned / Well Liquor\n$21 Pitcher of Draft Beer\n$8 Chili Cheese Fries / Yukon Gold Smashed Crispy Potatoes\n$10 Western Style Blackened Fish Tacos / RB Hot Wings / Bucking Bronco Sliders / Pulled Pork Sliders / Spicy BBQ Chicken Flatbread / Loaded Meat Lovers Flatbread / Veggie Flatbread",
+          "start_time": "14:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "20% Off Grub",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "restaurant_id": 3180382,
+      "name": "Old Monk Oak Cliff",
+      "address": "810 W Davis St",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75208",
+      "latitude": 32.7492771,
+      "longitude": -96.8362499,
+      "neighborhood": "Bishop Arts",
+      "rating": 4.6,
+      "user_rating_count": 110,
+      "cuisine": "Bar",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/3180382-bbd3a3ba-a2fd-4c8f-b350-179af7307324.avif",
+      "image_local_path": null,
+      "image_alt": "Two hands holding Guinness stout pints with creamy white heads.",
+      "deal_headline": "$7 House Cocktails Mon-Fri, $7 Martinis All Day Thursday",
+      "blurb": "$7 house cocktails (Irish Old Fashioned, Espresso Martini, Ancho Chile Margarita) Mon to Fri 3 to 7pm at the Davis Street Irish pub. Thursdays run a $7 martini hour all day (French 75, Cosmo, Espresso Martini). Bishop Arts' most reliable post-work move.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 3-7pm",
+          "items": [
+            "$7 house cocktails",
+            "Irish Old Fashioned, Espresso Martini, Ancho Chile Margarita, and more"
+          ]
+        },
+        {
+          "when": "Thu, all day",
+          "items": [
+            "$7 martinis all day: Espresso Martini, French 75, Cosmo, and more"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$7 House Cocktails\nIrish Old Fashioned\nEspresso Martini\nAncho Chile Margarita\nAnd More!",
+          "start_time": "15:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$7 Martinis All Day!\nEspresso Martini\nFrench 75\nCosmo\nAnd More!",
+          "start_time": "15:00:00",
+          "end_time": "1 day, 0:00:00",
+          "days": [
+            "Thursday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "restaurant_id": 2110505,
+      "name": "Harwood Arms",
+      "address": "2823 McKinnon St",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip_code": "75201",
+      "latitude": 32.7946511,
+      "longitude": -96.8087404,
+      "neighborhood": "Harwood District",
+      "rating": 4.4,
+      "user_rating_count": 636,
+      "cuisine": "Pub, Bar",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2110505-886f8091-636b-492e-a2a9-fa94c897117e.webp",
+      "image_local_path": null,
+      "image_alt": "Loaded potato skins, fries, chicken, and dark beers with chess pieces.",
+      "deal_headline": "$7 Craft Cocktails & $1 Off Drafts, Mon-Thu 4-7pm",
+      "blurb": "$1 off draft beer, $6 wine, $6 wells, and $7 concoctions (Irish Mule, Whiskey Sour, Arms Spicy Margarita, Old Fashioned, Rosemary Cucumber Gimlet) Mon through Thu 4 to 7pm. Friday opens the deal earlier at 11am. The polished pub in the Harwood District that punches above its arts-row address.",
+      "deals_curated": [
+        {
+          "when": "Mon-Thu, 4-7pm",
+          "items": [
+            "$1 off draft beer",
+            "$6 wine by the glass",
+            "$6 wells",
+            "$7 concoctions: Irish Mule, Whiskey Sour, Arms Spicy Margarita, Old Fashioned, Rosemary Cucumber Gimlet"
+          ]
+        },
+        {
+          "when": "Fri, 11am-7pm",
+          "items": [
+            "Same happy hour menu, all afternoon Friday"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$1 Off Draft Beer\n$6 Wine by the Glass\n$6 Wells\n$7 Concoctions (Irish Mule, Whiskey Sour, The Arms Spicy Margarita, Old Fashioned, Rosemary Cucumber Gimlet, Martini & More)\n$7 Bites (White Bean Dip, Scotch Egg, Mini Reuben Fries, Loaded Potato Skins, Crispy Chicken Sliders)",
+          "start_time": "16:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$1 Off Draft Beer\n$6 Wine by the Glass\n$6 Wells\n$7 Concoctions (Irish Mule, Whiskey Sour, The Arms Spicy Margarita, Old Fashioned, Rosemary Cucumber Gimlet, Martini & More)\n$7 Bites (White Bean Dip, Scotch Egg, Mini Reuben Fries, Loaded Potato Skins, Crispy Chicken Sliders)",
+          "start_time": "11:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Friday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "restaurant_id": 2110679,
+      "name": "Clifton Club Bar & Lounge",
+      "address": "3333 N Fitzhugh Ave",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip_code": "75204",
+      "latitude": 32.8169563,
+      "longitude": -96.7941493,
+      "neighborhood": "East Dallas",
+      "rating": 4.3,
+      "user_rating_count": 226,
+      "cuisine": "Night Club, Bar",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2110679-cf91f908-4361-4aec-b0a5-388b1a76dd1b.webp",
+      "image_local_path": null,
+      "image_alt": "Bartender pours frothy yellow drinks from golden shaker into glasses.",
+      "deal_headline": "$10 Classic Cocktails & $12 Boozy Old Fashioneds, Tue-Sun 4:30-6:30pm",
+      "blurb": "$10 classic cocktails (Margarita, French 75, Moscow Mule, Daiquiri), $12 Boozy Old Fashioned and Espresso Martini, $14 Bougie Club Martini, plus $7 bar snacks. Six days a week 4:30 to 6:30pm. A proper cocktail lounge on Fitzhugh that takes its drinks seriously.",
+      "deals_curated": [
+        {
+          "when": "Tue-Sun, 4:30-6:30pm",
+          "items": [
+            "$10 Classic Margarita, French 75, Moscow Mule, Daiquiri",
+            "$12 Boozy Old Fashioned, Espresso Martini",
+            "$14 Bougie Club Martini",
+            "$7 bar snacks: olives, mixed nuts, parmesan truffle fries"
+          ]
+        },
+        {
+          "when": "Wed, dinner service",
+          "items": [
+            "$40 Steak + Tini (steak frites + Club Martini)"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$10 Classic Margarita, French 75, Moscow Mule, Daiquiri\n$12 Boozy Old Fashioned, Espresso Martini\n$14 Bougie Club Martini\n$7 Bar Snacks (Olives, Mixed Nuts, Parmesan Crisps)\n$8 Brussels Sprouts\n$9 Green Goddess Avocado Dip, Truffle Parm French Fries, Mozzarella Sticks, Chocolate Mousse\n$12 Mini Meatballs, Fried Popcorn Chicken\n$13 All Flatbreads (Truffle-Roni, Prosciutto & Arugula, Caprese)\n$16 Spicy Tuna Crispy Rice\n$18 Mini Wagyu Smashburgers\n$20 Happy Meal (Mini Smashburger, Fries, Any Happy Hour Cocktail, Cigarette)\n$33 Steak Frites",
+          "start_time": "16:30:00",
+          "end_time": "18:30:00",
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$40 Steak + Tini (Steak Frites and Club Martini)",
+          "start_time": "16:30:00",
+          "end_time": "1 day, 0:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        }
+      ]
+    }
+  ]
+}

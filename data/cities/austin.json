@@ -1,0 +1,798 @@
+{
+  "city": "Austin",
+  "slug": "austin",
+  "generated_at": "2026-05-12T16:50:57.903600Z",
+  "page_title": "The 10 Best Happy Hours in Austin Right Now",
+  "restaurants": [
+    {
+      "rank": 1,
+      "restaurant_id": 2280476,
+      "name": "Hillside Farmacy",
+      "address": "1209 E 11th St",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78702",
+      "latitude": 30.2682422,
+      "longitude": -97.7269081,
+      "neighborhood": "East Austin",
+      "rating": 4.3,
+      "user_rating_count": 1662,
+      "cuisine": "American, Brunch, Coffee Shop, Cafe, Breakfast, Wine Bar, Bar, Seafood, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2280476-be03f0db-10ee-4d33-8851-cc0a64603024.jpg",
+      "image_local_path": null,
+      "image_alt": "Pappardelle pasta with meat sauce, grated cheese, and green herbs.",
+      "deal_headline": "Half-Price Oysters & Wine, Wed-Fri",
+      "blurb": "Half-price oysters, half-price draft beer, and half-price wine bottles three days a week. Then Wednesday night turns into a $20 Wagyu burger that comes with a free Old Fashioned, and the deal-per-square-inch math gets ridiculous.",
+      "deals_curated": [
+        {
+          "when": "Wed-Fri, 3-5pm",
+          "items": [
+            "Half-price oysters",
+            "Half-price draft beer",
+            "Half-price wine bottles",
+            "Half-price sharing menu"
+          ]
+        },
+        {
+          "when": "Thu, 3-10pm",
+          "items": [
+            "Half-price specials extended late on Thursday"
+          ]
+        },
+        {
+          "when": "Wed, 5-10pm",
+          "items": [
+            "$20 Wagyu (or veggie) burger + fries with a free Old Fashioned"
+          ]
+        },
+        {
+          "when": "Sun, 5-10pm",
+          "items": [
+            "$25 steak special"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "Half Price Bottles of Wine\nHalf Price Draft Beers\nHalf Price Sharing Menu\nHalf Price Oysters",
+          "start_time": "15:00:00",
+          "end_time": "17:00:00",
+          "days": [
+            "Wednesday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "FREE Old Fashioned\n$20 Wagyu/Veggie Burger + Fries",
+          "start_time": "17:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Half Price Bottles of Wine\nHalf Price Draft Beers\nHalf Price Sharing Menu\nHalf Price Oysters",
+          "start_time": "15:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$25 Steak",
+          "start_time": "17:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "restaurant_id": 2280471,
+      "name": "Sour Duck Market",
+      "address": "1814 E Martin Luther King Jr Blvd",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78702",
+      "latitude": 30.2798806,
+      "longitude": -97.7215815,
+      "neighborhood": "East Austin",
+      "rating": 4.5,
+      "user_rating_count": 2293,
+      "cuisine": "American, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2280471-4a5495e9-dfa7-4b01-8688-0c7c7e423c75.jpg",
+      "image_local_path": null,
+      "image_alt": "Golden pastries topped with cream, roasted peaches, and green herb sprigs.",
+      "deal_headline": "$6 Burgers, $6 Palomas & $3 Lone Stars, Daily 3-6pm",
+      "blurb": "All-day $3 Lone Star and a 3-6pm window of $6 palomas, $4 lager pints, $6 single burgers, and $3 soft-serve sundaes. A sun-drenched patio that's been packed since 2017. The platonic ideal of an Austin afternoon.",
+      "deals_curated": [
+        {
+          "when": "Daily, 3-6pm",
+          "items": [
+            "$6 palomas, turmeric mules, seasonal daiquiris",
+            "$4 select lager pints",
+            "$6 single burgers / $9 double",
+            "$3 soft-serve sundaes",
+            "$3 snaquiri shots",
+            "$1 off wine, draft beer, and cider"
+          ]
+        },
+        {
+          "when": "Every day, all open hours",
+          "items": [
+            "$3 Lone Star cans"
+          ]
+        },
+        {
+          "when": "Sat brunch",
+          "items": [
+            "$6 frozen palomas and mimosas"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$6 Paloma, Tumeric Mule, & Seasonal Daiquiri\n$4 Pints of Select Lagers\n$6 Tiny Frozen Cocktails\n$3 Seasonal Snaquiri Shots\n$1 Off Wine, Draft Beer, & Draft Cider\n$6 Single Burgers\n$9 Double Burger\n$3 Soft Serve Sundaes",
+          "start_time": "15:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3 Lone Star Cans",
+          "start_time": "9:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3 Lone Star Cans",
+          "start_time": "9:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Friday",
+            "Saturday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "restaurant_id": 2280318,
+      "name": "Péché",
+      "address": "208 W 4th St",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78701",
+      "latitude": 30.2668708,
+      "longitude": -97.7452131,
+      "neighborhood": "Warehouse District",
+      "rating": 4.5,
+      "user_rating_count": 2161,
+      "cuisine": "French, Bar, Restaurant",
+      "price_range": "$$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2280318-cd089f95-1275-4f90-9685-483222977d09.jpg",
+      "image_local_path": null,
+      "image_alt": "Hand turning absinthe fountain tap, water dripping onto sugar cube.",
+      "deal_headline": "Half-Off Food & $6 Cocktails, Mon-Fri (Mondays run till 10:30pm)",
+      "blurb": "Half off select food and $6 cocktails at a real-deal French absinthe bar, and Mondays run until 10:30pm, which is unhinged generosity for a place this nice. Order the steak frites and a Sazerac and pretend it's 1920.",
+      "deals_curated": [
+        {
+          "when": "Tue-Fri, 4-7pm",
+          "items": [
+            "Half off select food",
+            "$6 cocktails"
+          ]
+        },
+        {
+          "when": "Mon, 4-10:30pm",
+          "items": [
+            "Same happy hour menu runs all night"
+          ]
+        },
+        {
+          "when": "Sun, 5-10:30pm",
+          "items": [
+            "Same happy hour menu runs all night"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "Happy Hour:\n½ Off Select Food & $6 Cocktails",
+          "start_time": "16:00:00",
+          "end_time": "22:30:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Happy Hour:\n½ Off Select Food & $6 Cocktails",
+          "start_time": "16:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Happy Hour:\n½ Off Select Food & $6 Cocktails",
+          "start_time": "17:00:00",
+          "end_time": "22:30:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "restaurant_id": 2280571,
+      "name": "Eberly",
+      "address": "615 S Lamar Blvd",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78704",
+      "latitude": 30.2585895,
+      "longitude": -97.7588646,
+      "neighborhood": "South Lamar",
+      "rating": 4.5,
+      "user_rating_count": 1627,
+      "cuisine": "American, Bar, Restaurant",
+      "price_range": "$$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2280571-6605529e-1acf-4cd9-b9a2-27f36f17efb1.jpg",
+      "image_local_path": null,
+      "image_alt": "Frozen green drink with chili-spiced rim and lime.",
+      "deal_headline": "$7 Martinis, $5 Snacks & $10 Burgers at the Cedar Tavern, Daily",
+      "blurb": "The Cedar Tavern bar tucked inside Eberly runs $7 martinis, $5 snacks, and $10 burgers nightly during early-evening happy hour, plus $10 featured wines and cocktails. A genuine New York-energy bar in the middle of South Lamar.",
+      "deals_curated": [
+        {
+          "when": "Mon-Thu, 5-7pm",
+          "items": [
+            "$7 martinis",
+            "$10 burgers",
+            "$5 snacks",
+            "$10 featured cocktails and wines",
+            "$2 off select food (until 6pm)"
+          ]
+        },
+        {
+          "when": "Fri-Sun, 4-7pm",
+          "items": [
+            "Same Cedar Tavern happy hour menu, earlier start on weekends"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "Happy Hour - The Cedar Tavern Bar @ Eberly\n\n$7 Martinis\n$5 Snacks\n$10 Burgers",
+          "start_time": "17:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$10 Featured Wine (Bubbles, Red, White)\n$10 Featured Cocktails (Fall in Dior, Desert Rose Margarita)\n$2 Off Select Food",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Happy Hour - The Cedar Tavern Bar @ Eberly\n\n$7 Martinis\n$5 Snacks\n$10 Burgers",
+          "start_time": "16:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$10 Featured Wine (Bubbles, Red, White)\n$10 Featured Cocktails (Fall in Dior, Desert Rose Margarita)\n$2 Off Select Food",
+          "start_time": "16:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "restaurant_id": 2280461,
+      "name": "Lazarus Brewing Co. East 6th",
+      "address": "1902 E 6th St",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78702",
+      "latitude": 30.2617398,
+      "longitude": -97.7220019,
+      "neighborhood": "East 6th Street",
+      "rating": 4.7,
+      "user_rating_count": 2424,
+      "cuisine": "Brewery, Coffee Shop, Cafe, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2280461-e3f52aea-6297-41de-864d-2f9e6b92501e.jpg",
+      "image_local_path": null,
+      "image_alt": "Fish tacos with rice, beans, and sauce on a blue plate.",
+      "deal_headline": "3-6-9 Happy Hour: $3 Beers, $6 Cocktails, Mon-Thu 4-6pm",
+      "blurb": "The 3-6-9 model does exactly what it says: $3 house lagers and bean-and-cheese tostadas, $6 cocktails and queso, $9 anything bigger. Mon-Thu 4-6pm at the most consistently good brewery on the east side.",
+      "deals_curated": [
+        {
+          "when": "Mon-Thu, 4-6pm",
+          "items": [
+            "$3 Time Machine pints and bean-and-cheese tostadas",
+            "$6 cocktails: Lightning Wolf, Black Pearl, 40/40",
+            "$6 chips with salsa, queso, or guac",
+            "$9 cocktail upgrades and larger shareable plates"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "Happy Hour (3 • 6 • 9)\n\n$3:\nTime Machine (16oz)\nBean & Cheese Tostada\n\n$6:\nLightning Wolf\nBlack Pearl\n40/40\nProdigal\nChips n Dips (salsa, queso, guac)\n\n$9:\nLoaded Jalapeño Bacon Cheese Fries (aioli, salsa doña)\nRed, White, or Sparkling Wine (glass)",
+          "start_time": "16:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "restaurant_id": 2280567,
+      "name": "The Austin Beer Garden Brewing Co.",
+      "address": "1305 W Oltorf St",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78704",
+      "latitude": 30.2453301,
+      "longitude": -97.7688939,
+      "neighborhood": "South Austin",
+      "rating": 4.6,
+      "user_rating_count": 1486,
+      "cuisine": "Pizza, Brewery, Pub, Event Venue, Bar, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2280567-e88de315-e9f9-49c3-8594-1dfc4402a1e7.jpg",
+      "image_local_path": null,
+      "image_alt": "Burger with glazed meat, colorful coleslaw, and pickles on a bun.",
+      "deal_headline": "$10 Hoppy Hour Combos & $1 Off Pints, Tue-Sun",
+      "blurb": "Award-winning Austin brewery slinging $10 hoppy-hour combos (wings and beer, brat and beer, sliders) Tue-Sun, with $1 off pints, $2 off pitchers, or $9 slice-and-pint depending on which day you show up. The patio's worth the wait.",
+      "deals_curated": [
+        {
+          "when": "Tue-Sun, 3-7pm (Thu runs till close)",
+          "items": [
+            "$10 Hoppy Hour combos: wings and beer, brat and beer, sliders and beer, pretzel and beer, karaage nuggets",
+            "$1 off pints (Tue and Wed)",
+            "$2 off pitchers (Thu, all night)",
+            "$2 off cocktails (Fri)",
+            "$9 slice-and-pint (Sun evening)"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$1 off Pints\n\n$10 Hoppy Hour Menu:\nWings & Beer\nPretzel & Beer\nBrat & Beer\nKaraage Nuggets\nMix & Match Sliders (2)",
+          "start_time": "15:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2 off Pitchers\n\n$10 Hoppy Hour Menu:\nWings & Beer\nPretzel & Beer\nBrat & Beer\nKaraage Nuggets\nMix & Match Sliders (2)",
+          "start_time": "15:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2 off Cocktails\n\n$10 Hoppy Hour Menu:\nWings & Beer\nPretzel & Beer\nBrat & Beer\nKaraage Nuggets\nMix & Match Sliders (2)",
+          "start_time": "15:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$9 Slice & Pint\n\n$10 Hoppy Hour Menu:\nWings & Beer\nPretzel & Beer\nBrat & Beer\nKaraage Nuggets\nMix & Match Sliders (2)",
+          "start_time": "19:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "restaurant_id": 2280502,
+      "name": "Whisler’s",
+      "address": "1816 E 6th St",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78702",
+      "latitude": 30.2619325,
+      "longitude": -97.722738,
+      "neighborhood": "East 6th Street",
+      "rating": 4.6,
+      "user_rating_count": 1802,
+      "cuisine": "Bar",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2280502-9cdf8475-efb9-4066-84fd-768801de8d2c.png",
+      "image_local_path": null,
+      "image_alt": "Dimly lit cocktail bar interior with antique fixtures.",
+      "deal_headline": "$10 Old Fashioneds & $8 Signature Cocktails, Daily",
+      "blurb": "Austin's reigning cocktail temple runs five high-caliber drinks at $8 to $10 every weekday 4-7pm. The Whisler's Old Fashioned is the city's gold standard, and at $10 it's still cheaper than most downtown speakeasies' off-menu pours.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 4-7pm  ·  Sat-Sun, 2-5pm",
+          "items": [
+            "$10 Whisler's Old Fashioned",
+            "$8 Tiger's Tears",
+            "$8 Hornet's Nest",
+            "$8 Firing Squad",
+            "$8 Aperol Spritz"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$10 Whisler's Old Fashioned\n$8 Tiger's Tears\n$8 Hornet's Nest\n$8 Firing Squad\n$8 Aperol Spritz",
+          "start_time": "16:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$10 Whisler's Old Fashioned\n$8 Tiger's Tears\n$8 Hornet's Nest\n$8 Firing Squad\n$8 Aperol Spritz",
+          "start_time": "14:00:00",
+          "end_time": "17:00:00",
+          "days": [
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "restaurant_id": 2280497,
+      "name": "Anthem",
+      "address": "91 Rainey St Ste 120",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78701",
+      "latitude": 30.2604951,
+      "longitude": -97.7379794,
+      "neighborhood": "Rainey Street",
+      "rating": 4.6,
+      "user_rating_count": 886,
+      "cuisine": "Asian, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2280497-264a2dc6-c592-4250-9cf6-54f53cb9ea91.jpg",
+      "image_local_path": null,
+      "image_alt": "Seared fish on noodles, topped with pickled onions and sesame seeds.",
+      "deal_headline": "$8 Cocktails & $5 to $10 Shareable Plates, Every Day 3-6:30pm",
+      "blurb": "All-day happy hour on Rainey Street is rare, and Anthem runs $6 to $8 cocktails, $5 wines, and a serious shareable-plates menu ($5 Thai curry fries, $7 crab rangoon, $8 hatch queso) from 3-6:30pm every single day.",
+      "deals_curated": [
+        {
+          "when": "Daily, 3-6:30pm",
+          "items": [
+            "$8 margaritas, martinis, and mojitos",
+            "$6 Modelo and Kirin draft  ·  $5 Michelob Ultra",
+            "$7 house wine by the glass",
+            "$5 Thai curry fries and charred edamame",
+            "$7 crab rangoon  ·  $8 hatch chili queso",
+            "$10 yummy fries, mac poppers, popcorn chicken"
+          ]
+        },
+        {
+          "when": "Fri-Sat, 9-11pm",
+          "items": [
+            "Same happy hour menu runs as a late-night encore"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$5 Michelob Ultra\n$6 Modelo Draft & Kirin\n$7 House Wine\n$8 Margaritas, Martinis & Mojitos\n$5 Thai Curry Fries & Charred Edamame\n$7 Crab Rangoon & Chips & Guac\n$8 Hatch Chili Queso\n$10 Yummy Fries, Mac Poppers, Popcorn Chicken\n$11 Edamame Hummus & Flautas Del Sol\n$35 The Cure & The Cheat Code",
+          "start_time": "15:00:00",
+          "end_time": "18:30:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5 Michelob Ultra\n$6 Modelo Draft & Kirin\n$7 House Wine\n$8 Margaritas, Martinis & Mojitos\n$5 Thai Curry Fries & Charred Edamame\n$7 Crab Rangoon & Chips & Guac\n$8 Hatch Chili Queso\n$10 Yummy Fries, Mac Poppers, Popcorn Chicken\n$11 Edamame Hummus & Flautas Del Sol\n$35 The Cure & The Cheat Code",
+          "start_time": "21:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Friday",
+            "Saturday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "restaurant_id": 999000703,
+      "name": "Café No Sé",
+      "address": "1603 S Congress Ave",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78704",
+      "latitude": 30.247111,
+      "longitude": -97.750424,
+      "neighborhood": "South Congress",
+      "rating": 4.5,
+      "user_rating_count": 1488,
+      "cuisine": "Cafe, Brunch, Breakfast, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/999000703-bf5aa44a-d818-469d-bb0c-619c6029a30d.jpg",
+      "image_local_path": null,
+      "image_alt": "Two iced drinks, menu, and sunglasses on a wooden table.",
+      "deal_headline": "Rosé & Fries Happy Hour: Half-Off Bottles + $8 Bottomless Fries",
+      "blurb": "Rosé & Fries Happy Hour: half-off bottles of rosé, bottomless $8 fries, $5 off cocktails. Sun through Thursday until 8pm, weekends till 9pm. Inside the South Congress Hotel, on a patio that's catnip for golden-hour photos.",
+      "deals_curated": [
+        {
+          "when": "Sun-Thu, 3-8pm  ·  Fri-Sat, 3-9pm",
+          "items": [
+            "Half off bottles of rosé",
+            "$8 bottomless fries",
+            "$5 off cocktails"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "ROSÉ & FRIES HAPPY HOUR:\n-half off bottles of rosé\n-bottomless fries $8\n-$5 off cocktails",
+          "start_time": "15:00:00",
+          "end_time": "20:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "ROSÉ & FRIES HAPPY HOUR:\n-half off bottles of rosé\n-bottomless fries $8\n-$5 off cocktails",
+          "start_time": "15:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Friday",
+            "Saturday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "restaurant_id": 2280401,
+      "name": "The Tavern",
+      "address": "922 W 12th St",
+      "city": "Austin",
+      "state": "Texas",
+      "zip_code": "78703",
+      "latitude": 30.277075,
+      "longitude": -97.7511169,
+      "neighborhood": "Clarksville",
+      "rating": 4.3,
+      "user_rating_count": 1393,
+      "cuisine": "Pub, Event Venue, Bar, Restaurant",
+      "price_range": "$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2280401-1949fae9-33e6-4bd3-bdc7-9cfa74d295db.jpg",
+      "image_local_path": null,
+      "image_alt": "Pulled pork sandwich, coleslaw, and baked beans on a bar.",
+      "deal_headline": "$2 Off Wells, $5 Margs & 30% Off Starters, Mon-Fri 3-6pm",
+      "blurb": "The 1916 dive at 12th and Lamar runs a rotating daily-themed food deal (20% off Tavern burger Mondays, Tex-Mex Tuesdays, wings Wednesdays) plus $2 off wells, $5 margs, and 30% off starters during the 3-6pm window. Pretty much the only Austin bar that's been a happy hour since Prohibition ended.",
+      "deals_curated": [
+        {
+          "when": "Tue-Fri, 3-6pm",
+          "items": [
+            "$2 off wells and specialty cocktails",
+            "$4 pints (Dos XX, Altstadt, Celis rotating tap)",
+            "$5 house margaritas",
+            "$5 Fireball and Jager",
+            "30% off all starters"
+          ]
+        },
+        {
+          "when": "Lunch, daily 11am-2pm",
+          "items": [
+            "Themed 20% food deal: Tavern burger Mon, Tex-Mex Tue, wings Wed, buffalo wrap Thu, chicken-fried chicken Fri"
+          ]
+        },
+        {
+          "when": "Mon, all day",
+          "items": [
+            "Same happy hour drink deals extended till 11pm"
+          ]
+        },
+        {
+          "when": "Sun, all day",
+          "items": [
+            "$15 domestic buckets · $5 Fireball/Jager/TX Whiskey"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "Free Soft Drink/Iced Tea with Purchase of Daily Food Special\n20% Off Tavern Burger",
+          "start_time": "11:00:00",
+          "end_time": "14:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2 Off Wells & Specialty Cocktails\n$4 Pints of Dos XX, Altstadt Lager, & Celis Rotating Tap\n$5 House Margaritas\n$5 Fireball & Jager\n30% Off All Starters\nHappy Hour",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Free Soft Drink/Iced Tea with Purchase of Daily Food Special\n20% Off Tex-Mex Menu",
+          "start_time": "11:00:00",
+          "end_time": "14:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2 Off Tequila\n$4 House Margaritas",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2 Off Wells & Specialty Cocktails\n$4 Pints of Dos XX, Altstadt Lager, & Celis Rotating Tap\n$5 House Margaritas\n$5 Fireball & Jager\n30% Off All Starters",
+          "start_time": "15:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2 Off Whiskey",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Free Soft Drink/Iced Tea with Purchase of Daily Food Special\n20% Off Orders of Wings and White Wings",
+          "start_time": "11:00:00",
+          "end_time": "14:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Free Soft Drink/Iced Tea with Purchase of Daily Food Special\n20% Off Buffalo Chicken Wrap",
+          "start_time": "11:00:00",
+          "end_time": "14:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2 Off Pints",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Free Soft Drink/Iced Tea with Purchase of Daily Food Special\n20% Off Chicken Fried Chicken",
+          "start_time": "11:00:00",
+          "end_time": "14:00:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$15 Domestic Buckets\n$5 Fireball, Jager, & TX Whiskey",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "city": "San Antonio",
+  "slug": "san-antonio",
+  "generated_at": "2026-05-12T17:42:14.148958Z",
+  "page_title": "The 10 Best Happy Hours in San Antonio Right Now",
+  "restaurants": [
+    {
+      "rank": 1,
+      "restaurant_id": 2270241,
+      "name": "Pink Shark",
+      "address": "203 N Presa St",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78205",
+      "latitude": 29.4235636,
+      "longitude": -98.4893611,
+      "neighborhood": "River Walk",
+      "rating": 4.6,
+      "user_rating_count": 162,
+      "cuisine": "Bar",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2270241-52209644-230a-4e5a-9304-95212f3887fc.webp",
+      "image_local_path": null,
+      "image_alt": "Restaurant interior with window, peach velvet curtains, arched mirror, and orange banquette.",
+      "deal_headline": "99-Cent Oysters Every Single Day, 3-6pm",
+      "blurb": "99-cent oysters every day of the week, 3 to 6pm. Plus a five-hour 'SHARK HOUR' running 3 to 8pm with discounted drinks. There is no other San Antonio oyster deal that hits this hard, and the 4.6 rating tells you the kitchen is keeping up.",
+      "deals_curated": [
+        {
+          "when": "Daily, 3-6pm",
+          "items": [
+            "99-cent oysters"
+          ]
+        },
+        {
+          "when": "Daily, 3-8pm (Shark Hour)",
+          "items": [
+            "Discounted Shark Hour cocktail and beer menu"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": ".99 Cent Oysters",
+          "start_time": "15:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "SHARK HOUR",
+          "start_time": "15:00:00",
+          "end_time": "20:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "restaurant_id": 2270471,
+      "name": "I-10 Icehouse",
+      "address": "9518 Console Dr",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78229",
+      "latitude": 29.5275192,
+      "longitude": -98.5604019,
+      "neighborhood": "Far Northwest",
+      "rating": 4.2,
+      "user_rating_count": 1540,
+      "cuisine": "Bar And Grill, Bar, Restaurant",
+      "price_range": "$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2270471-d33a25df-ab7e-4511-86dc-ee354560f67d.webp",
+      "image_local_path": null,
+      "image_alt": "Golden beer with white foam in a frosted glass mug on black.",
+      "deal_headline": "$2.54 Wells & Domestic Bottles, Mon-Thu 3-8pm",
+      "blurb": "True Texas icehouse pricing: $2.54 wells, $2.54 domestic bottles, $3 imports. Mon to Thu 3 to 8pm at the Console Drive institution. Friday through Sunday the same prices start at 11am. Mondays add $2.77 Lone Stars and $3.93 Crown all night.",
+      "deals_curated": [
+        {
+          "when": "Mon-Thu, 3-8pm",
+          "items": [
+            "$2.54 wells",
+            "$2.54 domestic bottles",
+            "$3 import bottles"
+          ]
+        },
+        {
+          "when": "Fri-Sun, 11am-8pm",
+          "items": [
+            "Same icehouse pricing, all afternoon weekend"
+          ]
+        },
+        {
+          "when": "Mon, 3pm-close",
+          "items": [
+            "$3.93 Crown and flavors · $2.77 Lone Star"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$3.93 Crown + Flavors\n$2.77 Lone Star",
+          "start_time": "15:00:00",
+          "end_time": "1 day, 2:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2.54 Wells\n$2.54 Domestic Bottles\n$3.00 Import Bottles",
+          "start_time": "15:00:00",
+          "end_time": "20:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3.46 Purple Gecko\n$3.00 Star Fuc*er\n$3.00 Michelob Ultra Bottle",
+          "start_time": "15:00:00",
+          "end_time": "1 day, 2:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3.93 Deep Eddy\n$3.93 Crown + Flavors",
+          "start_time": "15:00:00",
+          "end_time": "1 day, 2:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3.93 Miller Draft\n$3.46 Jack Daniels\n$3.00 Star Fuc*er",
+          "start_time": "15:00:00",
+          "end_time": "1 day, 2:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3.70 Vegas Bomb\n$3.46 Wells\n$3.93 Espolon",
+          "start_time": "11:00:00",
+          "end_time": "2:00:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2.54 Wells\n$2.54 Domestic Bottles\n$3.00 Import Bottles",
+          "start_time": "11:00:00",
+          "end_time": "20:00:00",
+          "days": [
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2.54 Fireball\n$3.93 Ketel One\n$4.39 Jäger",
+          "start_time": "11:00:00",
+          "end_time": "2:00:00",
+          "days": [
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Happy Hour",
+          "start_time": "11:00:00",
+          "end_time": "2:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "restaurant_id": 2270044,
+      "name": "Double Standard",
+      "address": "114 E Houston St",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78205",
+      "latitude": 29.4262994,
+      "longitude": -98.4934748,
+      "neighborhood": "Downtown",
+      "rating": 4.4,
+      "user_rating_count": 579,
+      "cuisine": "Bar",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2270044-6e73070c-ddf5-428e-ba51-626ded25ca5b.webp",
+      "image_local_path": null,
+      "image_alt": "Iced amber cocktail in rocks glass with elaborate orange peel garnish.",
+      "deal_headline": "$2 Drafts, $4 Doubles & $1.50 Texas Oysters, Daily",
+      "blurb": "Seven days a week, 11:30am to 6pm: $2 select draft beers, $4 double well drinks, $7 select cocktails, $1.50 Texas oysters. The Houston Street bar that puts a credible oyster happy hour in the middle of downtown.",
+      "deals_curated": [
+        {
+          "when": "Daily, 11:30am-6pm",
+          "items": [
+            "$2 select draft beers",
+            "$4 double well drinks",
+            "$7 select cocktails",
+            "$1.50 Texas oysters"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$2 Select Draft Beers\n$4 Double Well Drinks\n$7 Select Cocktails\n$1.50 Texas Oysters",
+          "start_time": "11:30:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "restaurant_id": 2270129,
+      "name": "Down on Grayson",
+      "address": "303 E Grayson St",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78215",
+      "latitude": 29.4441282,
+      "longitude": -98.4782163,
+      "neighborhood": "Pearl District",
+      "rating": 4.4,
+      "user_rating_count": 4831,
+      "cuisine": "American, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2270129-5879cce0-0501-4db0-a1d4-437ae180e41d.webp",
+      "image_local_path": null,
+      "image_alt": "Night view of Down On Grayson restaurant with bright neon sign and patio.",
+      "deal_headline": "$5 Frozens, Half-Off Apps & $8 Spicy Margs, Mon-Fri 3-6pm",
+      "blurb": "$5 frozens, $6 draft beer and wells, $8 spicy margaritas, $6 select wines, plus half-off appetizers. Mon to Fri 3 to 6pm at the Pearl District patio that has 4,800 reviews and somehow still gets it right.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 3-6pm",
+          "items": [
+            "$5 frozens",
+            "$6 draft beer and wells",
+            "$8 spicy margaritas",
+            "$6 select wines",
+            "Half-off appetizers"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$5 Frozens\n$6 Draft Beer & Wells\n$8 Spicy Margaritas\n$6 Select Wines\n1/2 Off Appetizers",
+          "start_time": "15:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "restaurant_id": 999000364,
+      "name": "Postino South Broadway",
+      "address": "2600 Broadway",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78215",
+      "latitude": 29.4506382,
+      "longitude": -98.4737434,
+      "neighborhood": "Mahncke Park",
+      "rating": 4.8,
+      "user_rating_count": 569,
+      "cuisine": "Restaurant, Wine Bar, Bar",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/postinos-salad.avif",
+      "image_local_path": null,
+      "image_alt": "A fruit salad plated at Postino's.",
+      "deal_headline": "$6 Wine, $6 Beer Pitchers, Plus $25 Board-and-Bottle Nights",
+      "blurb": "$6 glasses of wine and $6 beer pitchers, Mon to Fri 11am to 5pm. Mon-Tue evenings stack on a $25 bruschetta board and bottle of wine. The Broadway wine bar with a 4.8 rating that solves the SA afternoon wine problem.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 11am-5pm",
+          "items": [
+            "$6 glasses of wine",
+            "$6 pitchers of beer"
+          ]
+        },
+        {
+          "when": "Sat-Sun, 10am-5pm",
+          "items": [
+            "Same $6 wine and beer-pitcher menu through weekend brunch"
+          ]
+        },
+        {
+          "when": "Mon-Tue, 8-11pm",
+          "items": [
+            "$25 board of bruschetta plus bottle of wine"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$6 Glasses of Wine\n$6 Pitchers of Beer",
+          "start_time": "11:00:00",
+          "end_time": "17:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$25 Bruschetta Board & Bottle of Wine",
+          "start_time": "20:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Monday",
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$6 Glasses of Wine\n$6 Pitchers of Beer",
+          "start_time": "10:00:00",
+          "end_time": "17:00:00",
+          "days": [
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "restaurant_id": 2270070,
+      "name": "El Honky Tonk",
+      "address": "316 N Flores St",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78205",
+      "latitude": 29.4279148,
+      "longitude": -98.4943379,
+      "neighborhood": "Downtown",
+      "rating": 4.6,
+      "user_rating_count": 161,
+      "cuisine": "Bar",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2270070-1ab32b41-f246-4aae-a0db-5d0078fa86f8.webp",
+      "image_local_path": null,
+      "image_alt": "\"Honky Tonk\" neon sign illuminates a rustic bar with patrons in cowboy hats.",
+      "deal_headline": "$3.75 House Liquor & $4 Domestics, Six Days a Week",
+      "blurb": "$3.75 house liquor, $4 domestic beers, $5 imports, Mon to Sat 2 to 7pm at the N Flores honky tonk. Sundays open with $3 mimosas through the afternoon. Cowboy hats optional but encouraged.",
+      "deals_curated": [
+        {
+          "when": "Mon-Sat, 2-7pm",
+          "items": [
+            "$3.75 house liquor",
+            "$4 domestic beers",
+            "$5 imported beers"
+          ]
+        },
+        {
+          "when": "Sun, noon-6pm",
+          "items": [
+            "$3 mimosas"
+          ]
+        },
+        {
+          "when": "Sun, 2-7pm",
+          "items": [
+            "$3.75 house liquor · $3.25 domestic beers"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$3.75 House Liquor\n$4 Domestic Beers\n$5 Imported Beers",
+          "start_time": "14:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3 Mimosas",
+          "start_time": "12:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3.75 House Liquor\n$3.25 Domestic Beers\n$4.25 Imported Beers",
+          "start_time": "14:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "restaurant_id": 2270237,
+      "name": "Burleson Yard Beer Garden",
+      "address": "430 Austin St",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78215",
+      "latitude": 29.4324814,
+      "longitude": -98.4782989,
+      "neighborhood": "East Downtown",
+      "rating": 4.5,
+      "user_rating_count": 1600,
+      "cuisine": "Restaurant, Bar",
+      "price_range": "$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2270237-9a93dae7-9984-480d-bfae-e113937ff64d.webp",
+      "image_local_path": null,
+      "image_alt": "Platter of chicken wings, fries, and a chili-rimmed drink outdoors.",
+      "deal_headline": "$3.50 Wells & $6 Margaritas at the East Downtown Beer Garden",
+      "blurb": "$3.50 wells, $4.50 draft Dos XX/Michelob/Modelo, $6 margaritas, $5.50 Tecate Micheladas. Mon to Wed 2 to 7pm, Thu-Fri start at noon, Saturday opens at 11am. The Austin Street beer garden that doubles as the East Downtown headquarters.",
+      "deals_curated": [
+        {
+          "when": "Mon-Wed, 2-7pm",
+          "items": [
+            "$3.50 wells",
+            "$6 margaritas",
+            "$4.50 Dos XX, Michelob Ultra, Modelo drafts",
+            "$5.50 Tecate Michelada",
+            "$3.75 Montucky Cold Snacks"
+          ]
+        },
+        {
+          "when": "Thu-Fri, noon-7pm",
+          "items": [
+            "Same happy hour menu, earlier start"
+          ]
+        },
+        {
+          "when": "Sat, 11am-7pm",
+          "items": [
+            "Same happy hour menu through Saturday afternoon"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$6.00 Margaritas\n$3.50 Wells\n$5.50 Tecate Michelada\n$4.50 Draft Dos XX\n$4.50 Draft Michelob Ultra\n$4.50 Draft Modelo\n$3.75 Montucky Cold Snack",
+          "start_time": "14:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$6.00 Margaritas\n$3.50 Wells\n$5.50 Tecate Michelada\n$4.50 Draft Dos XX\n$4.50 Draft Michelob Ultra\n$4.50 Draft Modelo\n$3.75 Montucky Cold Snack",
+          "start_time": "12:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$6.00 Margaritas\n$3.50 Wells\n$5.50 Tecate Michelada\n$4.50 Draft Dos XX\n$4.50 Draft Michelob Ultra\n$4.50 Draft Modelo\n$3.75 Montucky Cold Snack",
+          "start_time": "11:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$6.00 Margaritas\n$3.50 Wells\n$5.50 Tecate Michelada\n$4.50 Draft Dos XX\n$4.50 Draft Michelob Ultra\n$4.50 Draft Modelo\n$3.75 Montucky Cold Snack",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "restaurant_id": 2270536,
+      "name": "La Fonda On Main",
+      "address": "2415 N Main Ave",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78212",
+      "latitude": 29.4525203,
+      "longitude": -98.4941634,
+      "neighborhood": "Beacon Hill",
+      "rating": 4.5,
+      "user_rating_count": 4165,
+      "cuisine": "Mexican, Brunch, Bar, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2270536-7f64aeb5-ffff-45c5-8625-3f35b0414ce9.webp",
+      "image_local_path": null,
+      "image_alt": "Two garnished cocktails, red and white, on an outdoor mosaic table.",
+      "deal_headline": "$8 Traditional & Mezcal Margaritas, Mon-Thu 3-6pm",
+      "blurb": "$8 traditional and Flaca margaritas, $8 Hibiscus Mezcalero and Sotol Negroni, $8 Aztec Old-Fashioneds, $9 flavored margs. The Beacon Hill Mexican classic has been in business since 1932; the happy hour is how locals actually use it.",
+      "deals_curated": [
+        {
+          "when": "Mon-Thu, 3-6pm",
+          "items": [
+            "$8 traditional and Flaca margaritas",
+            "$8 Hibiscus Mezcalero, Sotol Negroni",
+            "$8 Aztec Old-Fashioned, Sangria, Mojito",
+            "$9 flavored margaritas",
+            "Discounted agave spirits flights"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$8 Traditional, Flaca Margaritas\n$8 Hibiscus Mezcalero, Sotol Negroni\n$8 Aztec Old-Fashioned, Sangria, Mojito\n$9 Flavored Margarita\nAgave Spirits Flight Tier 1 $20\nAgave Spirits Flight Tier 2 $25\nAgave Spirits Flight Tier 3 $40\n$8 Esquite Tacos (4), Bean & Cheese Nachos\n$10 Chicken Flautas\n$13 Crudo de Colores",
+          "start_time": "15:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "restaurant_id": 2270096,
+      "name": "Hanzo",
+      "address": "7701 Broadway Ste 124",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78209",
+      "latitude": 29.4998233,
+      "longitude": -98.467174,
+      "neighborhood": "Alamo Heights",
+      "rating": 4.4,
+      "user_rating_count": 956,
+      "cuisine": "Bar, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2270096-3216bba1-23f8-4001-b459-943b2389848c.webp",
+      "image_local_path": null,
+      "image_alt": "Green cocktail with white foam and a fuchsia orchid garnish.",
+      "deal_headline": "$7 Cocktails & $3.50 Shots, Plus a Late-Night Reverse Happy Hour",
+      "blurb": "$7 cocktails (Punch Drunk Love, Spicy Pineapple Daiquiri), $7 wells and wine, $3.50 shots, Tue to Sat 5 to 7pm. Then a reverse happy hour runs 10pm to midnight same nights. The Alamo Heights Japanese spot with the longest cocktail program on Broadway.",
+      "deals_curated": [
+        {
+          "when": "Tue-Sat, 5-7pm",
+          "items": [
+            "$7 cocktails: Punch Drunk Love, Spicy Pineapple Daiquiri",
+            "$7 wells and wines by the glass",
+            "$3.50 shots: Spicy Pineapple Tequila, One Inch Punch, Black Flash"
+          ]
+        },
+        {
+          "when": "Tue-Sat, 10pm-midnight",
+          "items": [
+            "Same happy hour menu as a late-night reverse"
+          ]
+        },
+        {
+          "when": "Mon, Sun, 4pm-1am",
+          "items": [
+            "Same happy hour menu runs all night Mondays and Sundays"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$7 Drinks: Cocktails (Punch Drunk Love, Spicy Pineapple Daiquiri), Wells, Wines By The Glass\n$3.50 Shots (Spicy Pineapple Tequila, One Inch Punch, Black Flash, Nigori Sake, Junmai Sake, Sake Bomb)\n$2 Off Beer\n$10 Off Wine Bottles\n$7 Food: Bites (Pork Gyoza, Agedashi Tofu, Cai's Mini Cabbage), Sushi Rolls (210, Spicy, Avocado, Tempura Shrimp, Garden), Nigiri (3 Pieces), Sashimi (5 Pieces)\n$10 Tori Katsu",
+          "start_time": "16:00:00",
+          "end_time": "1 day, 1:00:00",
+          "days": [
+            "Monday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$7 Drinks: Cocktails (Punch Drunk Love, Spicy Pineapple Daiquiri), Wells, Wines By The Glass\n$3.50 Shots (Spicy Pineapple Tequila, One Inch Punch, Black Flash, Nigori Sake, Junmai Sake, Sake Bomb)\n$2 Off Beer\n$10 Off Wine Bottles\n$7 Food: Bites (Pork Gyoza, Agedashi Tofu, Cai's Mini Cabbage), Sushi Rolls (210, Spicy, Avocado, Tempura Shrimp, Garden), Nigiri (3 Pieces), Sashimi (5 Pieces)\n$10 Tori Katsu",
+          "start_time": "17:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$7 Drinks: Cocktails (Punch Drunk Love, Spicy Pineapple Daiquiri), Wells, Wines By The Glass\n$3.50 Shots (Spicy Pineapple Tequila, One Inch Punch, Black Flash, Nigori Sake, Junmai Sake, Sake Bomb)\n$2 Off Beer\n$10 Off Wine Bottles\n$7 Food: Bites (Pork Gyoza, Agedashi Tofu, Cai's Mini Cabbage), Sushi Rolls (210, Spicy, Avocado, Tempura Shrimp, Garden), Nigiri (3 Pieces), Sashimi (5 Pieces)\n$10 Tori Katsu",
+          "start_time": "22:00:00",
+          "end_time": "1 day, 0:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "restaurant_id": 2270137,
+      "name": "Cullum's Attagirl",
+      "address": "726 E Mistletoe",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip_code": "78212",
+      "latitude": 29.4531644,
+      "longitude": -98.4850978,
+      "neighborhood": "Tobin Hill",
+      "rating": 4.4,
+      "user_rating_count": 1304,
+      "cuisine": "Brunch, Hamburger, American, Bar, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2270137-c74b7244-0e6e-40a7-8879-605fc84d9ffe.webp",
+      "image_local_path": null,
+      "image_alt": "Close-up: Seasoned split biscuit sandwich with sausage, egg, and cheese.",
+      "deal_headline": "$5 Wells, $7 Neon Frozen Margs & $5 Deviled Eggs, Wed-Fri",
+      "blurb": "$5 wells, $7 Neon Frozen Margaritas, $5 deviled eggs Wed to Fri 11am to 6pm at the Tobin Hill yard. Sundays run a late session: $3 Modelo, $3 Fernet, $5 wells, $4.50 fried bologna and pimento. As Tobin Hill as a happy hour gets.",
+      "deals_curated": [
+        {
+          "when": "Wed-Fri, 11am-6pm",
+          "items": [
+            "$5 wells",
+            "$7 Neon Frozen Margaritas",
+            "$5 deviled eggs"
+          ]
+        },
+        {
+          "when": "Sun, 5-10pm",
+          "items": [
+            "$3 Modelo · $3 Fernet",
+            "$5 wells",
+            "$4.50 fried bologna and pimento"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$5 Wells\n$7 Neon Frozen Margaritas\n$5 Deviled Eggs",
+          "start_time": "11:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3 Modelo\n$3 Fernet\n$5 Wells\n$4.50 Fried Bologna & Pimento",
+          "start_time": "17:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    }
+  ]
+}

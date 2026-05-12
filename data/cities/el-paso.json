@@ -1,0 +1,968 @@
+{
+  "city": "El Paso",
+  "slug": "el-paso",
+  "generated_at": "2026-05-12T18:07:59.619548Z",
+  "page_title": "The 10 Best Happy Hours in El Paso Right Now",
+  "restaurants": [
+    {
+      "rank": 1,
+      "restaurant_id": 2700264,
+      "name": "Taft-Diaz",
+      "address": "209 N Stanton St",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79901",
+      "latitude": 31.7595724,
+      "longitude": -106.4868065,
+      "neighborhood": "Downtown",
+      "rating": 4.3,
+      "user_rating_count": 280,
+      "cuisine": "Restaurant, Fine Dining",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700264-bc92e1f8-c3e4-43e1-bcb5-157d2e0ea43e.webp",
+      "image_local_path": null,
+      "image_alt": "Top-down view: Plated fried items, salad, sauces, hand with fork.",
+      "deal_headline": "Half-Off Spirits & Wine Daily, Plus $5 Drafts at the Stanton House",
+      "blurb": "Half off well house spirits, half off wines by the glass, $5 drafts, and $15 tacos (three for $15) seven days a week, 4 to 6pm. The Stanton House fine-dining room runs the most generous happy hour downtown, and they don't skip a day.",
+      "deals_curated": [
+        {
+          "when": "Daily, 4-6pm",
+          "items": [
+            "Half off well house spirits",
+            "Half off wines by the glass",
+            "$5 draft beer",
+            "Tacos, 3 for $15",
+            "New York steak and spicy mushroom quesadilla discounts"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "Half Off Well House Spirits\nHalf Off Wines by the Glass\n$5 Draft Beer\nTacos (3 for $15)\nNew York Steak\nSpicy Mushroom Quesadilla",
+          "start_time": "16:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "restaurant_id": 2700155,
+      "name": "King's X Bar",
+      "address": "4119 N Mesa St",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79902",
+      "latitude": 31.7912408,
+      "longitude": -106.5081432,
+      "neighborhood": "Kern Place",
+      "rating": 4.3,
+      "user_rating_count": 961,
+      "cuisine": "Bar, Event Venue",
+      "price_range": "$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700155-9a2536ac-25f1-44b4-a41e-1ad30a7256e7.webp",
+      "image_local_path": null,
+      "image_alt": "King's X neon and 'COCKTAIL BAR' lightbox signs at night.",
+      "deal_headline": "$2.75 Domestics & $3.75 Imports, Seven Days a Week",
+      "blurb": "$2.75 domestic bottles, $3.75 import bottles, every single day 4 to 7pm at the N Mesa dive that's been there forever. No frills, no DJs, no app to download. Just cheap bottles and a regulars crowd.",
+      "deals_curated": [
+        {
+          "when": "Daily, 4-7pm",
+          "items": [
+            "$2.75 domestic beer bottles",
+            "$3.75 import beer bottles"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "$2.75 Domestics & $3.75 Imports",
+          "details": "$2.75 Domestic Beer Bottles \n$3.75 Import Beer Bottles",
+          "start_time": "16:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "restaurant_id": 2700330,
+      "name": "Rib Hut",
+      "address": "2612 N Mesa St",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79902",
+      "latitude": 31.7768147,
+      "longitude": -106.5026031,
+      "neighborhood": "Five Points",
+      "rating": 4.5,
+      "user_rating_count": 1843,
+      "cuisine": "Barbecue, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700330-1f4470a5-af10-4c6e-9d7b-f8ea79eb949c.webp",
+      "image_local_path": null,
+      "image_alt": "Collection of beer bottles, cans, and jeans on a wooden surface.",
+      "deal_headline": "$3.99 Spare Ribs & $4.99 Beef Ribs on Famous Rib Night",
+      "blurb": "Wednesday is Famous Rib Night: spare ribs $3.99 each, beef ribs $4.99 each, all evening at the N Mesa BBQ institution. Monday nights are also $3.99 spare ribs, and every weekday lunch swaps in a different platter under $17. The Rib Hut has been doing this since 1978.",
+      "deals_curated": [
+        {
+          "when": "Wed, 4-10pm (Famous Rib Night)",
+          "items": [
+            "$3.99 spare ribs (each)",
+            "$4.99 beef ribs (each)"
+          ]
+        },
+        {
+          "when": "Mon, 4-9pm",
+          "items": [
+            "$3.99 spare ribs (each)"
+          ]
+        },
+        {
+          "when": "Mon-Fri, 11am-4pm (Lunch Plate)",
+          "items": [
+            "$12.99 BBQ cheeseburger + side (Mon)",
+            "$12.99 any spud (Tue)",
+            "$16.99 chicken-fried steak + 2 sides (Wed)",
+            "$16.99 sausage platter + 2 sides (Thu)",
+            "$17.99 small combo, 2 meats + 2 sides (Fri)"
+          ]
+        },
+        {
+          "when": "Sat, 11am-4pm",
+          "items": [
+            "$1.99 brisket burrito"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "BBQ Cheeseburger w/ a side $12.99",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Spare Ribs $3.99 each",
+          "start_time": "16:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Any Spud $12.99",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "1/2 Smoked Chicken and 2 sides $17.99",
+          "start_time": "16:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Chicken Fried Steak w/ 2 sides $16.99",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Famous Rib Night! Beef Ribs $4.99 or Spare Ribs $3.99",
+          "start_time": "16:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Sausage Platter w/ 2 sides $16.99",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "1/2 Slab of Baby Backs and 2 sides $19.99",
+          "start_time": "16:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Small Combo (Any 2 meats and 2 sides) $17.99",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Fried Catfish and 2 sides $16.99",
+          "start_time": "16:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Brisket Burrito $1.99",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "1/2 Smoked Chicken and 2 sides $17.99",
+          "start_time": "16:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Any 3 Meats and 2 Sides $26.99",
+          "start_time": "11:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Any 3 Meats and 2 Sides $26.99",
+          "start_time": "16:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "restaurant_id": 2700226,
+      "name": "Mesa Street Grill",
+      "address": "3800 N Mesa St Suite D-1",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79902",
+      "latitude": 31.7864491,
+      "longitude": -106.5060403,
+      "neighborhood": "Kern Place",
+      "rating": 4.1,
+      "user_rating_count": 1209,
+      "cuisine": "Restaurant, Steak House, Wine Bar, Fine Dining, Seafood, Dessert, Event Venue, Bar, American",
+      "price_range": "$$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700226-5a598c89-e73c-45ef-a768-bc3bfa4e6860.webp",
+      "image_local_path": null,
+      "image_alt": "Aerial view of Mesa Street Grill, a Southwestern restaurant with mountains.",
+      "deal_headline": "$5 Drafts, $7 Wines & $8 Apps, Mon-Sat 4-7pm",
+      "blurb": "$5 drafts, $7 wines, $9 martinis, plus a $8/$12/$16 appetizer ladder, Mon to Sat 4 to 7pm. Wednesday adds half off any bottle of wine over $40 all day. Thursday is $6 house margaritas, Friday is $6 house martinis. A serious steakhouse running a serious happy hour.",
+      "deals_curated": [
+        {
+          "when": "Mon-Sat, 4-7pm",
+          "items": [
+            "$5 draft beer",
+            "$7 wines by the glass",
+            "$9 martinis",
+            "$8, $12, and $16 appetizer tiers"
+          ]
+        },
+        {
+          "when": "Wed, 11am-10pm",
+          "items": [
+            "Half off any bottle of wine $40 or over"
+          ]
+        },
+        {
+          "when": "Thu, 11am-10pm",
+          "items": [
+            "$6 traditional house margaritas"
+          ]
+        },
+        {
+          "when": "Fri, 11am-10pm",
+          "items": [
+            "$6 house martinis"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$5 Draft Beers\n$7 Wines\n$9 Martinis\n$8 Appetizers\n$12 Appetizers\n$16 Appetizers",
+          "start_time": "16:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Half Off Wine List Bottles ($40+)",
+          "start_time": "11:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "House Traditional Margaritas $6.00",
+          "start_time": "11:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "House Martini $6.00",
+          "start_time": "11:00:00",
+          "end_time": "22:00:00",
+          "days": [
+            "Friday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "restaurant_id": 2700305,
+      "name": "Moose's Draft House",
+      "address": "1550 Hawkins Blvd",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79925",
+      "latitude": 31.7920318,
+      "longitude": -106.3709328,
+      "neighborhood": "Cielo Vista",
+      "rating": 4.5,
+      "user_rating_count": 624,
+      "cuisine": "Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700305-78b1aef0-5e06-4b58-9387-fffaefba21a7.webp",
+      "image_local_path": null,
+      "image_alt": "Red-orange cocktail, spiced rim, lime, and olive skewer in faceted glass.",
+      "deal_headline": "$2 Tacos, 80-Cent Wings & $4 22-oz Drafts, All Week",
+      "blurb": "$0.80 boneless wings (10 min) on Mondays, $2 tacos on Tuesdays, $0.80 traditional wings on Wednesdays, $3.50 draft pints Thursday late afternoon, $4 22-oz tall draft beers Fri to Sun. Plus a $9.99 burger-and-fries or flautas lunch every weekday. A serious Eastside drinking value.",
+      "deals_curated": [
+        {
+          "when": "Mon, 11am-11pm",
+          "items": [
+            "$0.80 boneless wings (min. 10)",
+            "$4 original margarita",
+            "$2.50 Ultra slim cans"
+          ]
+        },
+        {
+          "when": "Tue, 11am-11pm",
+          "items": [
+            "$2 tacos (pulled pork, chicken, al pastor, asada)",
+            "$3 smoked brisket tacos",
+            "$4 Hornitos shots"
+          ]
+        },
+        {
+          "when": "Wed, 11am-11pm",
+          "items": [
+            "$0.80 traditional wings (min. 10)",
+            "$4 select whiskeys"
+          ]
+        },
+        {
+          "when": "Thu, 3-7pm",
+          "items": [
+            "$3.50 draft pints",
+            "$3.25 paleta + cucumber cocktails",
+            "$3 pork ribs (min. 2)"
+          ]
+        },
+        {
+          "when": "Fri-Sun, 11am-late",
+          "items": [
+            "$4 22-oz domestic drafts",
+            "$5 Patron, $4 Rumple Minze"
+          ]
+        },
+        {
+          "when": "Mon-Fri, 11am-3pm (Lunch)",
+          "items": [
+            "$9.99 Moose's flautas (pulled pork or chicken)",
+            "$11.99 Moose burger and fries"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$0.80 Boneless Wings (Minimum 10)\n$4 Original Margarita\n$3.25 Kazi's\n$2.50 Ultra Slim Cans",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$9.99 Moose’s Flautas (4) Pork or Chicken\n$11.99 Moose Burger and Fries",
+          "start_time": "11:00:00",
+          "end_time": "15:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$2.00 Tacos (Pulled Pork, Chicken, Al Pastor, Asada)\n$3.00 Smoked Brisket Tacos\n$4 Hornitos\n$5 Tecate + Tequila Combo\n$2.50 Ultra Slim Cans",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$9.99 Moose’s Flautas (4) Pulled Pork or Chicken\n$11.99 Moose Burger and Fries",
+          "start_time": "11:00:00",
+          "end_time": "15:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$4 Select Whiskeys",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$0.80 Traditional Wings (Minimum 10)",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3.25 Paleta & Cucumbers\n$4 Hornitos",
+          "start_time": "11:00:00",
+          "end_time": "23:30:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3.00 Pork Ribs (Minimum 2)\n$4.25 Beef Ribs (Minimum 2)",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$9.99 Moose’s Flautas (4) Pulled Pork and Chicken\n$11.99 Moose Burger and Fries",
+          "start_time": "11:00:00",
+          "end_time": "15:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$3.50 Draft Pints",
+          "start_time": "15:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5 Patron\n$4 22oz Tall Draft Beers",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$4 22oz Domestics\n$4 Rumple Minze",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$4 22oz Domestics\n$4 Rumple Minze",
+          "start_time": "11:00:00",
+          "end_time": "23:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "restaurant_id": 2700262,
+      "name": "Oak & Antler American Tavern",
+      "address": "317 E Mills Ave",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79901",
+      "latitude": 31.7606239,
+      "longitude": -106.4863755,
+      "neighborhood": "Downtown",
+      "rating": 4.7,
+      "user_rating_count": 513,
+      "cuisine": "Restaurant, American",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700262-c24b7c32-f5be-48dc-9cb2-8227be40f8ec.webp",
+      "image_local_path": null,
+      "image_alt": "A cold martini with yellow liquid and three olives at a bar.",
+      "deal_headline": "$4 Drafts, $5 Wine & $6 Old Fashioneds, Tue-Sat 5-9pm",
+      "blurb": "Four-hour weeknight window at the highest-rated downtown tavern (4.7 stars): $4 drafts, $5 reds and whites, $6 classic margaritas, $6 Old Fashioneds, $6 Dragon's Retreat. Tue to Sat, 5 to 9pm. The Mills Avenue cocktail program that locals reliably steer first-timers toward.",
+      "deals_curated": [
+        {
+          "when": "Tue-Sat, 5-9pm",
+          "items": [
+            "$4 draft beer",
+            "$5 red wine, $5 white wine",
+            "$6 classic margarita",
+            "$6 Dragon's Retreat",
+            "$6 classic Old Fashioned"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "Draft Beer $4\nRed Wine $5\nWhite Wine $5\nClassic Margarita $6\nDragon’s Retreat $6\nClassic Old Fashion $6",
+          "start_time": "17:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "restaurant_id": 2700549,
+      "name": "Sun City Slice Pizza (West)",
+      "address": "6450 N Desert Blvd #B103",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79912",
+      "latitude": 31.8854393,
+      "longitude": -106.5799451,
+      "neighborhood": "West Side",
+      "rating": 4.4,
+      "user_rating_count": 555,
+      "cuisine": "Pizza, Restaurant",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700549-de226d6f-19e6-4a46-a507-c196f88d73d9.webp",
+      "image_local_path": null,
+      "image_alt": "Seven golden-brown fried chicken wings with herb dipping sauce.",
+      "deal_headline": "$8.49 All-You-Can-Eat Pizza Buffet + Daily Drink Happy Hour",
+      "blurb": "$8.49 all-you-can-eat pizza buffet, Monday through Friday 11:30am to 2:30pm. Then a daily 3 to 7pm drink happy hour on every bottle and draft. Mondays add $7.99 large one-topping pizzas, Tue-Thu run a $14 two-pizza deal. The West Side pizzeria where the math always works out.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 11:30am-2:30pm",
+          "items": [
+            "$8.49 all-you-can-eat pizza buffet"
+          ]
+        },
+        {
+          "when": "Daily, 3-7pm",
+          "items": [
+            "Happy hour pricing on all bottles and drafts"
+          ]
+        },
+        {
+          "when": "Mon, 10am-4pm",
+          "items": [
+            "$7.99 large one-topping pizzas"
+          ]
+        },
+        {
+          "when": "Tue-Thu, 11am-9pm",
+          "items": [
+            "$14 for two large two-topping pizzas",
+            "$5.99 personal pasta (Mon only)",
+            "$14 for two pizzadillas (Thu only)"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$7.99 Large 1-Topping Pizzas",
+          "start_time": "10:00:00",
+          "end_time": "16:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5.99 Personal Pasta\n$14 Two Large 2-Topping Pizzas",
+          "start_time": "11:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Monday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$8.49 All You Can Eat Pizza Buffet",
+          "start_time": "11:30:00",
+          "end_time": "14:30:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Happy Hour All Bottles and Drafts",
+          "start_time": "15:00:00",
+          "end_time": "19:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$14 Two Large 2-Topping Pizzas",
+          "start_time": "11:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Tuesday",
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$14 Two Pizzadillas\n$14 Two Large 2-Topping Pizzas",
+          "start_time": "11:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Thursday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "restaurant_id": 2700442,
+      "name": "Cabo Joe's",
+      "address": "7942 Gtwy Blvd E",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79915",
+      "latitude": 31.752725,
+      "longitude": -106.347243,
+      "neighborhood": "East Side",
+      "rating": 4.0,
+      "user_rating_count": 1650,
+      "cuisine": "Mexican, American, Bar, Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700442-bd9138ef-6bf1-475e-ae7c-8f9b4f0f7b90.webp",
+      "image_local_path": null,
+      "image_alt": "Orange-sauced boneless chicken wings in a metal tray with celery.",
+      "deal_headline": "$1 Off Margaritas, $4 Drafts & Daily BOGO Nachos",
+      "blurb": "$1 off house margaritas and Cabo cocktails, $4 domestic draft pints, $5 Cuervo Tradicional, Mon to Fri 11am to 5pm. Every single day adds $5 Cabo Bombs, $3 Landsharks, and buy-one-get-one nachos. The Gateway East Mexican-American spot that stays open till 2am on weekends.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 11am-5pm",
+          "items": [
+            "$1 off house margaritas",
+            "$1 off Cabo cocktails",
+            "$4 domestic draft pints",
+            "$5 Cuervo Tradicional Blanco",
+            "$5 Hoop Tea pints"
+          ]
+        },
+        {
+          "when": "Daily, 11am-midnight",
+          "items": [
+            "$5 Cabo Bombs",
+            "$5 Cuervo Devil's Reserve",
+            "$3 Landsharks",
+            "Buy-one-get-one nachos"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$1 Off House Margaritas\n$1 Off Cabo Cocktails\n$4 Domestic Draft Pints\n$5 Cuervo Tradicional Blanco\n$5 Hoop Tea Pints",
+          "start_time": "11:00:00",
+          "end_time": "17:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5 Cabo Bombs\n$5 Cuervo Devils Reserve\n$3 Landsharks\nBuy One Get One Free Nachos",
+          "start_time": "11:00:00",
+          "end_time": "0:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Sunday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "$5 Cabo Bombs\n$5 Cuervo Devils Reserve\n$3 Landsharks\nBuy One Get One Free Nachos",
+          "start_time": "11:00:00",
+          "end_time": "2:00:00",
+          "days": [
+            "Friday",
+            "Saturday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "restaurant_id": 2700267,
+      "name": "Ambar Restaurante",
+      "address": "106 W Mills Ave",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79901",
+      "latitude": 31.7587194,
+      "longitude": -106.4886756,
+      "neighborhood": "Downtown",
+      "rating": 4.1,
+      "user_rating_count": 1044,
+      "cuisine": "Mexican, Restaurant",
+      "price_range": "",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700267-06ff48a3-1eda-4366-8dd0-43a2037770a4.webp",
+      "image_local_path": null,
+      "image_alt": "Private dining room with long wooden table and illuminated beverage cabinets.",
+      "deal_headline": "$26 Three-Course Downtown Mexican Lunch, Weekdays",
+      "blurb": "$26 three-course lunch: appetizer, entree, side, plus guacamole, tostadas, and dessert. Mon to Fri 11am to 2pm at the W Mills Avenue Mexican spot that punches well above its quiet downtown corner. A near-impossible price for a real sit-down lunch.",
+      "deals_curated": [
+        {
+          "when": "Mon-Fri, 11am-2pm",
+          "items": [
+            "$26 three-course lunch",
+            "Includes appetizer, entree, and side",
+            "Plus guacamole, tostadas, and dessert"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "$26 Lunch Special\nIncludes Appetizer, Entree, Side\nIncludes Guacamole, Tostadas, Dessert",
+          "start_time": "11:00:00",
+          "end_time": "14:00:00",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "restaurant_id": 2700413,
+      "name": "A Touch of Germany",
+      "address": "9530 Viscount Blvd",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip_code": "79925",
+      "latitude": 31.7660106,
+      "longitude": -106.3637983,
+      "neighborhood": "Cielo Vista",
+      "rating": 4.5,
+      "user_rating_count": 842,
+      "cuisine": "Restaurant",
+      "price_range": "$$",
+      "image_url": "https://d1d69n4zq33hc3.cloudfront.net/restaurant_gallery/2700413-b18866ae-fa5d-432d-9891-93a9824bc971.webp",
+      "image_local_path": null,
+      "image_alt": "Four glasses of different Schneider Weisse beers on a wooden bar.",
+      "deal_headline": "$9.25 Schnitzel, Bratwurst & Fish & Chips, Tue-Fri",
+      "blurb": "A different $9.25 entree every weekday at the Viscount Blvd German restaurant: schnitzel with German potato salad on Tuesday, bratwurst with fries on Wednesday, schnitzel sandwich on Thursday, fish and chips on Friday. Sundays do an $18.75 all-you-can-eat schnitzel. German food on the border is its own kind of right.",
+      "deals_curated": [
+        {
+          "when": "Tue, 11am-8pm",
+          "items": [
+            "$9.25 schnitzel, German potato salad, and a roll"
+          ]
+        },
+        {
+          "when": "Wed, 11am-8pm",
+          "items": [
+            "$9.25 bratwurst with roll and fries"
+          ]
+        },
+        {
+          "when": "Thu, 11am-8pm",
+          "items": [
+            "$9.25 schnitzel sandwich with fries"
+          ]
+        },
+        {
+          "when": "Fri, 11am-9pm",
+          "items": [
+            "$9.25 fish and chips"
+          ]
+        },
+        {
+          "when": "Sun, noon-6pm",
+          "items": [
+            "$18.75 all-you-can-eat schnitzel special"
+          ]
+        }
+      ],
+      "deals": [
+        {
+          "title": "",
+          "details": "Schnitzel, German Potato Salad, and a Roll all for $9.25",
+          "start_time": "11:00:00",
+          "end_time": "20:00:00",
+          "days": [
+            "Tuesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Bratwurst with Roll and Pommes (Fries) just $9.25",
+          "start_time": "11:00:00",
+          "end_time": "20:00:00",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Schnitzel Sandwich with Pommes (Fries) $9.25",
+          "start_time": "11:00:00",
+          "end_time": "20:00:00",
+          "days": [
+            "Thursday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "Fish and Chips $9.25",
+          "start_time": "11:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "20% Discount on Meals for Educators",
+          "start_time": "11:00:00",
+          "end_time": "21:00:00",
+          "days": [
+            "Saturday"
+          ]
+        },
+        {
+          "title": "",
+          "details": "All You Can Eat Schnitzel Special $18.75",
+          "start_time": "12:00:00",
+          "end_time": "18:00:00",
+          "days": [
+            "Sunday"
+          ]
+        }
+      ]
+    }
+  ]
+}
